@@ -5,9 +5,9 @@
 
 :root {
     --font: "Iosevka";
-    --background: #232629;
-    --foreground: #bdc3c7;
-    --turquoise: #1cdc9a;
+    --background: #111111;
+    --foreground: #e0e0e0;
+    --turquoise: #4bc98a;
     --white: #fcfcfc;
     --branch: 1px solid #a7a9be;
 }
